@@ -28,12 +28,12 @@ Make the following changes in settings.py
 
 
 For enabling the Weather API
-- create an account at [this page](https://openweathermap.org/api)  
+- Create an account at [this page](https://openweathermap.org/api)  
 - Set WEATHER_API_KEY to the API Key value.
 - Set WEATHER_LOCATION to a location of your choice
 
 For enabling the Football API
-- create an account at [this page](https://www.football-data.org/)  
+- Create an account at [this page](https://www.football-data.org/)  
 - Set FOOTBALL_API_TOKEN to the API Key value.
 
 All APIs are free but come with limited usage (except for the Reddit API).  
@@ -44,3 +44,7 @@ For the stock market watchlist feature, add stock symbols (Only NSE) of your cho
 For opening webpages,
 - Set CHROME_PATH the file location of your browser.
 - Add webpages of your choice to the WEBPAGE_URLS list.
+
+# Screenshots
+![s1](https://github.com/arjunhm/daily-briefing/blob/master/screenshots/s1.JPG)
+![s2](https://github.com/arjunhm/daily-briefing/blob/master/screenshots/s2.JPG)
