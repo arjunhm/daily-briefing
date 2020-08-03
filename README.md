@@ -46,5 +46,5 @@ For opening webpages,
 - Add webpages of your choice to the WEBPAGE_URLS list.
 
 # Screenshots
-![s1](https://github.com/arjunhm/daily-briefing/blob/master/screenshots/s1.JPG)
+![s1](https://github.com/arjunhm/daily-briefing/blob/master/screenshots/s3.JPG)
 ![s2](https://github.com/arjunhm/daily-briefing/blob/master/screenshots/s2.JPG)
