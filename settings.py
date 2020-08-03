@@ -4,7 +4,7 @@ CLIENT_ID = ""
 CLIENT_SECRET = ""
 CLIENT_AGENT = ""
 POST_LIMIT = 10
-SUBREDDITS = [""]
+SUBREDDITS = ["worldnews", "learnpython"]
 
 # Chrome Settings
 CHROME_PATH = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s"
