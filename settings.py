@@ -8,7 +8,7 @@ SUBREDDITS = [""]
 
 # Chrome Settings
 CHROME_PATH = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s"
-WEBPAGE_URLS = ["https://techcrunch.com/", "https://news.ycombinator.com/", "https://calendar.google.com/calendar/r", "https://ticktick.com/webapp/#q/all/tasks"]
+WEBPAGE_URLS = ["https://techcrunch.com/", "https://news.ycombinator.com/"]
 
 # Football API
 FOOTBALL_API_TOKEN = ""
