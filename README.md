@@ -7,6 +7,10 @@ It's configured to
 - Display the current standings of football clubs in the Premier League.
 - Display information on stocks of your choice. (Only NSE)
 
+# Future Work
+- [ ] Canvas Integration
+
+
 # Setup 
 
 Install necessary packages by running  
